@@ -17,3 +17,16 @@ console.log(typeof booleanIsLoggedIn);
 // 1=> true; 0 => false
 // ""=> fslse
 // "abd"=> true
+
+let value= 3
+let negvalue= -value
+console.log(negvalue);
+
+let str1= "hello"
+let str2=" anayan"
+let str3= str1+str2
+console.log(str3);
+console.log("1" +2);
+console.log(1+ "2");
+console.log("1" +2+2);
+console.log(1+2 + "2");
