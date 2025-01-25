@@ -18,3 +18,12 @@ let state;
 //object
 
 console.log(typeof null); // object
+
+// primitive
+// 7 types: string, number,  boolean, null, undefined, symbol, bigint
+
+// reference
+// array, objects, functions
+
+// memories:'
+// stack(primitive) , heap(reference)
